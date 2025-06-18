@@ -88,11 +88,11 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 
 <div align="center">
   
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelchia&show_icons=true&theme=radical&hide_border=true)
+![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelchiav&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelchia&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelchiav&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelchia&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelchiav&theme=radical&hide_border=true)
 
 </div>
 
