@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Angel Chia Vicuña
 
-## 🚀 Backend Developer | Python Specialist | AI Integration Expert
+## 🚀 Backend Developer | Python Specialist
 
 > **Career Transition Journey:** Law Student → Backend Developer in 9 weeks  
 > **Location:** Iquique, Chile 🇨🇱 | **Available for Remote Work Worldwide** 🌍
@@ -63,18 +63,6 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 **SmartFitness AI Platform**
-> **AI-Powered Fitness Recommendation System**
-
-**Tech Stack:** Flask, Scikit-learn, Pandas, NumPy, PostgreSQL, IBM Watson  
-**Features:**
-- Real-time workout recommendations using ML algorithms
-- Health analytics and progress predictions
-- AI-driven nutrition analysis
-- Performance optimization through machine learning
-
-🔗 **[Live Demo](#)** | **[Repository](#)** | **[Technical Blog Post](#)**
 
 ### 🌐 **Django Enterprise Application** *(Coming Soon)*
 > **Multi-tenant SaaS Platform**
