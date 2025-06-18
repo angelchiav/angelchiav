@@ -75,7 +75,7 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 - Order processing and inventory control
 - Advanced search and filtering capabilities
 
-🔗 **[Repository](https://github.com/angelchiav/techmarket-backend.api)** | **[API Documentation](#)** | **[Technical Overview](#)**
+🔗 **[Repository](https://github.com/angelchiav/techmarket-backend)** | **[API Documentation](#)** | **[Technical Overview](#)**
 
 ---
 
