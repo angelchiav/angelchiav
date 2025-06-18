@@ -152,7 +152,7 @@ I'm actively seeking **Backend Developer opportunities** with companies that val
 - **International remote collaboration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelchia)
-[![Email](https://img.shields.io/badge/Email-angel@metasphere.cl-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel@metasphere.cl)
+[![Email](https://img.shields.io/badge/Email-achiavicuna@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel@metasphere.cl)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
