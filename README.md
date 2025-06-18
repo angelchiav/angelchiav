@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Angel Chia Vicuña
 
-## 🚀 Backend Developer | Python Specialist | AI Integration Expert
+## 🚀 Backend Developer | Python Specialist
 
 > **Career Transition Journey:** Law Student → Backend Developer in 9 weeks  
 > **Location:** Iquique, Chile 🇨🇱 | **Available for Remote Work Worldwide** 🌍
@@ -22,7 +22,7 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-PCAP%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-PCAP%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://verify.openedg.org/?id=tUUb.yneo.xCtL)
 ![Flask](https://img.shields.io/badge/Flask-AI%20Integration-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-In%20Progress-092E20?style=for-the-badge&logo=django&logoColor=white)
 
