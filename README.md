@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Angel Chia Vicuña
 
-## 🚀 Backend Developer | Python Specialist
+## 🚀 Backend Developer | Python Specialist | AI Integration Expert
 
 > **Career Transition Journey:** Law Student → Backend Developer in 9 weeks  
 > **Location:** Iquique, Chile 🇨🇱 | **Available for Remote Work Worldwide** 🌍
@@ -25,6 +25,12 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 ![Python](https://img.shields.io/badge/Python-PCAP%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-AI%20Integration-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-In%20Progress-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **AI & Data Science**
+![NumPy](https://img.shields.io/badge/NumPy-Production%20Ready-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-AI%20Services-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### **Databases & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,13 +62,20 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🌐 **Django Enterprise Application** *(Coming Soon)*
-> **Multi-tenant SaaS Platform**
+### 🛒 **TechMarket Backend API (in progress)
+> **E-commerce Backend System with Advanced Features**
 
-**Tech Stack:** Django, Django REST Framework, PostgreSQL, Redis  
-**Features:** Complex user management, subscription handling, advanced analytics
+**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL  
+**Features:**
+- Complete RESTful API for e-commerce operations
+- User authentication and authorization
+- Product catalog management
+- Order processing and inventory control
+- Advanced search and filtering capabilities
+
+🔗 **[Repository](https://github.com/angelchiav/techmarket-backend.api)** | **[API Documentation](#)** | **[Technical Overview](#)**
 
 ---
 
