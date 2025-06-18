@@ -26,12 +26,6 @@ I'm a **PCAP-certified Python developer** with a unique background in Law (4 yea
 ![Flask](https://img.shields.io/badge/Flask-AI%20Integration-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-In%20Progress-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### **AI & Data Science**
-![NumPy](https://img.shields.io/badge/NumPy-Production%20Ready-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML%20Models-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-AI%20Services-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-
 ### **Databases & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-System%20Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
