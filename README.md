@@ -18,11 +18,11 @@
 - Trabajo con **PostgreSQL**, **Docker** y **CI/CD** (GitHub Actions).
 
 ### 🧩 Ahora mismo
-  - Construyendo una **red social** API-first (Django + DRF) con:
+- Estudiando **Python/TypeScript** en Boot.dev y practicando **DSA** a diario.
+- Construyendo una **red social** API-first (Django + DRF) con:
   - Registro/login JWT, perfiles, **follow/unfollow**, posts, comentarios y likes.
   - Paginación y filtros; permisos `IsAuthenticated`/`IsOwner`.
   - Despliegue con Docker + Render/Vercel y docs OpenAPI.
-  - Estudiando **Python/TypeScript** en Boot.dev y practicando **DSA** a diario.
 
 ### 🛠️ Stack
 - **Backend:** Python, Django, Django REST Framework, SimpleJWT  
