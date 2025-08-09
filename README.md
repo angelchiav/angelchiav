@@ -39,7 +39,7 @@
   🔗 Repo: 🔧https://github.com/angelchiav/blank-social-network
 
 ### 📬 Contacto
-- ✉️ Email: 🔧achiavicuna@gmail.com
+- ✉️ Email: achiavicuna@gmail.com
 
 ---
 
