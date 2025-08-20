@@ -15,7 +15,7 @@
 - Integrate frontends in **TypeScript/React/Next.js** against custom APIs.
 - Work with **PostgreSQL**, **Docker** and **CI/CD** (GitHub Actions).
 ### 🧩 Currently
-- Studying **Python/TypeScript** on Boot.dev and practicing **DSA** daily.
+- Studying **Python/TypeScript/Golang** on Boot.dev and practicing **DSA** daily.
 - Building a **social network** API-first (Django + DRF) with:
   - JWT registration/login, profiles, **follow/unfollow**, posts, comments and likes.
   - Pagination and filters; `IsAuthenticated`/`IsOwner` permissions.
