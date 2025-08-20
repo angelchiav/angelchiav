@@ -21,8 +21,8 @@
   - Pagination and filters; `IsAuthenticated`/`IsOwner` permissions.
   - Deployment with Docker + Render/Vercel and OpenAPI docs.
 ### 🛠️ Stack
-- **Backend:** Python, Django, Django REST Framework, SimpleJWT  
-- **Frontend (in progress):** TypeScript, JavaScript 
+- **Backend:** Python, Django, Django REST Framework, SimpleJWT, Golang (in process)
+- **Frontend (in progress):** TypeScript, JavaScript
 - **Data:** PostgreSQL, Redis
 - **Infra:** Docker, docker-compose, GitHub Actions  
 - **Testing:** pytest
