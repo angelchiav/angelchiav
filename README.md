@@ -36,7 +36,6 @@
 ---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=angelchiav&show_icons=true&theme=default&hide_title=true" />
   </a>
   <a href="https://git.io/streak-stats">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angelchiav&theme=blood-dark&exclude_days=Fri" alt="GitHub Streak" /></a>
