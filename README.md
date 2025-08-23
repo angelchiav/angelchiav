@@ -39,7 +39,7 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=angelchiav&show_icons=true&theme=default&hide_title=true" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="150" src="https://streak-stats.demolab.com/?user=angelchiav&theme=default" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angelchiav&theme=blood-dark&exclude_days=Fri" alt="GitHub Streak" /></a>
   </a>
 </p>
 <!-- Tip: enable "Include private contributions" in your profile so private repos count. -->
