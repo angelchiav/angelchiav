@@ -34,11 +34,3 @@
 ### 📬 Contact
 - ✉️ Email: achiavicuna@gmail.com
 ---
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  </a>
-  <a href="https://git.io/streak-stats">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=angelchiav&theme=blood-dark&exclude_days=Fri" alt="GitHub Streak" /></a>
-  </a>
-</p>
-
