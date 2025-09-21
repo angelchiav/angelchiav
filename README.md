@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Angel 👋</h1>
+<h1 align="center">Hi, I'm Angel</h1>
 <p align="center">
   Backend & API-first — <b>Django/DRF</b> • SQL • Docker • CI/CD
 </p>
