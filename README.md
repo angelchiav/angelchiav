@@ -53,7 +53,3 @@ In progress — DRF + JWT + profiles + likes + comments.
 📧 **Email:** [achiavicuna@gmail.com](mailto:achiavicuna@gmail.com)  
 🌐 **GitHub:** [github.com/angelchiav](https://github.com/angelchiav)
 
----
-
-> _“Clean code and thoughtful architecture are the backbone of great APIs.”_  
-> — Angel Chia Vicuña
