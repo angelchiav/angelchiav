@@ -1,39 +1,39 @@
 
-  <h1>Backend Developer | API-first Architect | Problem Solver</h1><br>
-  🧱 Django REST Framework • 🐍 Python • 🐘 PostgreSQL • 🐳 Docker • ⚙️ CI/CD
+  <h1>Backend Developer | API-first Architect </h1><br>
+  Django REST Framework • Python • PostgreSQL • Docker • CI/CD
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 I'm a backend developer focused on building **clean, scalable, and secure APIs**.  
 I enjoy solving complex problems with elegant solutions and deploying robust backend architectures.
 
-🌱 Currently learning **Go + DevOps tech** to strengthen my backend skills.  
-💡 Passionate about **system design**, **algorithms**, and **functional programming**.  
+Currently learning **Go + DevOps tech** to strengthen my backend skills.  
+Passionate about **system design**, **algorithms**, and **functional programming**.  
 
 ---
 
-### 🧠 Currently Building
-#### 🧩 Blank Social Network (API-First)
+### Currently Building
+#### Blank Social Network (API-First)
 A Django REST Framework-based social platform featuring:
 - JWT authentication (register/login)
 - Profiles, follow/unfollow
 - Posts, comments, and likes
 - Pagination, filtering, and `IsAuthenticated` / `IsOwner` permissions  
 - Dockerized deployment with OpenAPI documentation  
-🔗 [blank-social-network](https://github.com/angelchiav/blank-social-network)
+[blank-social-network](https://github.com/angelchiav/blank-social-network)
 
-#### 🛒 E-commerce API
+#### E-commerce API
 Modular backend for catalog, cart, and checkout logic.  
 - Admin dashboard  
 - Order tracking & permissions  
 - PostgreSQL + Docker + CI/CD (GitHub Actions)  
-🔗 [django-ecommerce-api](https://github.com/angelchiav/django-ecommerce-api)
+[django-ecommerce-api](https://github.com/angelchiav/django-ecommerce-api)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 | Category | Tools |
 |-----------|--------|
@@ -46,7 +46,7 @@ Modular backend for catalog, cart, and checkout logic.
 
 ---
 
-### 📈 GitHub Stats  
+### GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=angelchiav&show_icons=true&theme=radical" height="165">
@@ -55,7 +55,7 @@ Modular backend for catalog, cart, and checkout logic.
 
 ---
 
-### 🏆 GitHub Trophies  
+### GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=angelchiav&theme=onedark&no-frame=true&row=1&column=6" />
@@ -63,7 +63,7 @@ Modular backend for catalog, cart, and checkout logic.
 
 ---
 
-### 📬 Connect with Me  
+### Connect with Me  
 
 <p align="center">
   <a href="mailto:achiavicuna@gmail.com"><img src="https://img.shields.io/badge/Email-achiavicuna%40gmail.com-red?style=flat-square&logo=gmail"></a>
