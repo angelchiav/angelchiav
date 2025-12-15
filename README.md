@@ -38,7 +38,7 @@ Modular backend for catalog, cart, and checkout logic.
 | Category | Tools |
 |-----------|--------|
 | **Languages** | Python • Go (learning) |
-| **Backend** | Django • DRF  • SimpleJWT |
+| **Backend** | Django • DRF  • SimpleJWT • Gin |
 | **Database** | PostgreSQL • SQLite • MongoDB |
 | **Infrastructure** | Docker • Docker Compose • Vercel • AWS |
 | **CI/CD** | GitHub Actions |
