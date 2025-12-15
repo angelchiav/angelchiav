@@ -1,6 +1,6 @@
 
   <h1>Backend Developer | API-first Architect </h1><br>
-  Django REST Framework • Python • PostgreSQL • Docker • CI/CD
+  Django REST Framework • Python • Go • PostgreSQL • Docker • CI/CD
 </p>
 
 ---
@@ -37,7 +37,7 @@ Modular backend for catalog, cart, and checkout logic.
 
 | Category | Tools |
 |-----------|--------|
-| **Languages** | Python • Go (learning) |
+| **Languages** | Python • Go |
 | **Backend** | Django • DRF  • SimpleJWT • Gin |
 | **Database** | PostgreSQL • SQLite • MongoDB |
 | **Infrastructure** | Docker • Docker Compose • Vercel • AWS |
